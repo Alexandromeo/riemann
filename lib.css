@@ -1,0 +1,163 @@
+.body{background-color: rgb(72, 165,234);}
+
+.sign-form
+{
+	background-color: white;
+	height: auto;
+	color: #444;
+	font-weight: bolder;
+}
+
+.sign-logo
+{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	color: white;
+	font-size: 26px;
+	background-color: rgb(76, 88, 224);
+}
+
+.sign-content
+{
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 20px;
+}
+
+.sign-input
+{
+	outline: none;
+	border-top-color: transparent;
+	border-left-color: transparent;
+	border-right-color: transparent;
+	border-bottom-color: #888;
+	width: 100%;
+}
+
+#sign-fx-pindah
+{
+	font-size: 17px;
+	margin-right: 58%;
+	margin-top: -10px;
+	position: absolute;
+	width: 50%;
+}
+
+#sign-a-pindah
+{
+	font-size: 17px;
+	margin-right: 63%;
+	margin-top: 75px;
+	position: absolute;
+	width: 50%;
+}
+
+#sign-b-pindah
+{
+	font-size: 17px;
+	margin-right: 63%;
+	margin-top: 160px;
+	position: absolute;
+	width: 50%;
+}
+
+#sign-n-pindah
+{
+	font-size: 17px;
+	margin-right: 59%;
+	margin-top: 245px;
+	position: absolute;
+	width: 50%;
+}
+
+.sign-submit
+{
+	background-color: rgb(76, 88, 224);
+	width: 100%;
+	border: none;
+	color: white;
+	padding: 10px;
+	margin-top: 40px;
+}
+
+.sign-google
+{
+	background-color: rgb(222,77,60);
+	font-size: 14px;
+	margin-top: 20px;
+}
+
+.sign-facebook
+{
+	background-color: rgb(43,77,141);
+	font-size: 14px;
+	margin-top: 10px;
+}
+
+.sign-submit:hover{opacity: 0.9;}
+.sign-or
+{
+	font-size: 18px;
+	margin-top: 30px;
+	padding-bottom: 10px;
+	margin-bottom: 30px;
+}
+
+.sign-or span{font-size: 14px; position: absolute; margin-top: 30px;}
+
+.sign-garis
+{
+	margin-top: 10px;
+	height: 2px;
+	width: 28%;
+	float: left;
+	position: absolute;
+	background-color: #666;
+}
+
+.sign-garis-2
+{
+	height: 2px;
+	width: 36%;
+	float: right;
+	margin-top: -15px;
+	position: relative;
+	background-color: #666;
+}
+
+.sign-alert-error
+{
+	background-color: rgb(242,38,19);
+	padding: 15px;
+	margin-bottom: 20px;
+	color: white;
+	font-size: 15px;
+	font-weight: bolder;
+}
+
+#selek-1
+{
+	position: absolute;
+	margin-left: 180px;
+}
+
+#selek-2
+{
+	position: absolute;
+	margin-left: 240px;
+}
+
+#selek-3
+{
+	position: absolute;
+	margin-left: 305px;
+}
+
+.alert
+{
+	background-color: rgb(252,77,80);
+	color: #fff;
+	padding: 20px;
+	font-weight: bolder;
+	border-radius: 0;
+}
